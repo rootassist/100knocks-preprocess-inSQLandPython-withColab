@@ -1,21 +1,29 @@
+=====================
 Name
-====
+=====================
 Colaboratoryでデータサイエンス100本ノックを実践【SQL編、Python編】
 
+=====================
 Overview
-====
+=====================
  - データサイエンス100本ノック（構造化データ加工編）をGoogle Colaboratoryで実施できるようにしてみました。Dockerが使用できない環境(含、タブレットなど)でも、ブラウザ(とGoogleアカウント)があれば100本ノックを簡単に試すことができるようになります。
  - SQLとPythonのみを作成しています。(Rを使用していないため)
 
+=====================
 Description
-====
-- SQL演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/main/preprocess_knock_SQL_Colab.ipynb
-- Python演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/main/preprocess_knock_Python_Colab.ipynb
+=====================
+- SQL演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
+- Python演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
 
 - '/tmp': 作業用データ作成ディレクトリ
 
+=====================
 Usage
-====
+=====================
+
+Google Colaboratoryから開く場合
+========
+
 1. Google Colaboratory にアクセスする
 
 https://colab.research.google.com/
@@ -34,12 +42,14 @@ https://colab.research.google.com/
 
 5. 演習を始める
 
+=====================
 Original
-====
+=====================
 一般社団法人データサイエンティスト協会スキル定義委員
 データサイエンス100本ノック（構造化データ加工編）
 2022.7.24現在
 
+=====================
 Acknowledgments
-====
+=====================
 すばらしい研修課題をご提供されている一般社団法人データサイエンティスト協会スキル定義委員の皆さまに感謝いたします。
