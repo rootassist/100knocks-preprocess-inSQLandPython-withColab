@@ -14,10 +14,8 @@ Description
 =====================
 - SQL演習編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
 - SQL解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_SQL_Colab.ipynb
-
 - Python演習編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
 - Python解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_Python_Colab.ipynb
-
 - '/tmp': 作業用データ作成ディレクトリ
 
 =====================
