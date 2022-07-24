@@ -12,14 +12,26 @@ Overview
 =====================
 Description
 =====================
-- SQL演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
-- Python演習用ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
+- SQL演習編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
+- SQL解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_SQL_Colab.ipynb
+
+- Python演習編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
+- Python解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_Python_Colab.ipynb
 
 - '/tmp': 作業用データ作成ディレクトリ
 
 =====================
 Usage
 =====================
+
+GitHubから開く場合
+========
+1. 以下のリンクをクリックする
+
+- SQL演習編: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
+- Python演習編: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
+
+2. ファイル上部の「Open in Colab」をクリックする
 
 Google Colaboratoryから開く場合
 ========
