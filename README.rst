@@ -16,7 +16,7 @@ Description
 - SQL解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_SQL_Colab.ipynb
 - Python演習編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
 - Python解答編ipynb: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/ans_knock_Python_Colab.ipynb
-- '/tmp': 作業用データ作成ディレクトリ
+- '/tmp/data': 作業用データ作成ディレクトリ
 
 =====================
 Usage
@@ -30,6 +30,8 @@ GitHubから開く場合
 - Python演習編: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
 
 2. ファイル上部の「Open in Colab」をクリックする
+
+3. 説明内容に従って演習を始める
 
 Google Colaboratoryから開く場合
 ========
@@ -50,7 +52,7 @@ https://colab.research.google.com/
 
 4. 内容に従い、準備のセルを実行する (準備のために時間がかかります)
 
-5. 演習を始める
+5. 説明内容に従って演習を始める
 
 =====================
 Original
