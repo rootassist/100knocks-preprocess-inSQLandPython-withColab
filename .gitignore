@@ -281,3 +281,4 @@ dmypy.json
 cython_debug/
 
 !/.gitignore
+.vscode/settings.json
