@@ -24,27 +24,30 @@ Usage
 
 - 詳細な説明は note (https://note.com/nmt_rootassist/n/nf70b6e73f673) に書いています。
 
+---------------------
 GitHubから開く場合
-========
-1. 以下のリンクをクリックする
+---------------------
+
+1) 以下のリンクをクリックする
 
 - SQL演習編: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_SQL_Colab.ipynb
 - Python演習編: https://github.com/rootassist/100knocks-preprocess-inSQLandPython-withColab/blob/master/preprocess_knock_Python_Colab.ipynb
 
-2. ファイル上部の「Open in Colab」をクリックする
+2) ファイル上部の「Open in Colab」をクリックする
 
-3. 説明内容に従って演習を始める
+3) 説明内容に従って演習を始める
 
+---------------------
 Google Colaboratoryから開く場合
-========
+---------------------
 
-1. Google Colaboratory にアクセスする
+1) Google Colaboratory にアクセスする
 
 https://colab.research.google.com/
 
-2. ダイアログボックスの「GitHub」をクリックし、「GitHub URL を入力するか、組織またはユーザーで検索します」に「rootassist/100knocks-preprocess-inSQLandPython-withColab」と入力し、検索する
+2) ダイアログボックスの「GitHub」をクリックし、「GitHub URL を入力するか、組織またはユーザーで検索します」に「rootassist/100knocks-preprocess-inSQLandPython-withColab」と入力し、検索する
 
-3. リストから選択して開く
+3) リストから選択して開く
 
 - SQL 演習編: preprocess_knock_SQL_Colab.ipynb
 - SQL 解答編: ans_knock_SQL_Colab.ipynb
@@ -52,9 +55,9 @@ https://colab.research.google.com/
 - Python 演習編: preprocess_knock_Python_Colab.ipynb
 - Python 解答編: ans_knock_Python_Colab.ipynb
 
-4. 内容に従い、準備のセルを実行する (準備のために時間がかかります)
+4) 内容に従い、準備のセルを実行する (準備のために時間がかかります)
 
-5. 説明内容に従って演習を始める
+5) 説明内容に従って演習を始める
 
 =====================
 Original
