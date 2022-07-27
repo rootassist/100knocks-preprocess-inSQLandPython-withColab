@@ -1,7 +1,7 @@
 =====================
 Name
 =====================
-データサイエンス100本ノックをColaboratoryで実践【SQL編、Python編】
+データサイエンス100本ノックをGoogle Colaboratoryで実践【SQL編・Python編】
 
 =====================
 Overview
