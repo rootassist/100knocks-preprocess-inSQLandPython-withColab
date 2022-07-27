@@ -22,7 +22,7 @@ Description
 Usage
 =====================
 
-- 詳細な説明は note () に書いています。
+- 詳細な説明は note (https://note.com/nmt_rootassist/n/nf70b6e73f673) に書いています。
 
 GitHubから開く場合
 ========
