@@ -6,8 +6,8 @@ Name
 =====================
 Overview
 =====================
- - データサイエンス100本ノック（構造化データ加工編）をGoogle Colaboratoryで実施できるようにしてみました。Dockerが使用できない環境(含、タブレットなど)でも、ブラウザ(とGoogleアカウント)があれば100本ノックを簡単に試すことができるようになります。
- - SQLとPythonのみを作成しています。(Rを使用していないため)
+ - データサイエンス100本ノック（構造化データ加工編）をGoogle Colaboratoryで実践できるようにNoteBookを作成しました。Dockerが使用できない環境でも、ブラウザとGoogleアカウントがあれば100本ノックを簡単に実践することができます（タブレットなどでも実践できます）。
+ - SQLとPythonのみ作成しています。（Rを使用していないため）
 
 =====================
 Description
@@ -35,7 +35,9 @@ GitHubから開く場合
 
 2) ファイル上部の「Open in Colab」をクリックする
 
-3) 説明内容に従って演習を始める
+3) 「環境構築用のセル」を実行する （準備のために時間がかかります）
+
+4) 説明内容に従って演習を始める
 
 ---------------------
 Google Colaboratoryから開く場合
@@ -45,9 +47,9 @@ Google Colaboratoryから開く場合
 
 https://colab.research.google.com/
 
-2) ダイアログボックスの「GitHub」をクリックし、「GitHub URL を入力するか、組織またはユーザーで検索します」に「rootassist/100knocks-preprocess-inSQLandPython-withColab」と入力し、検索する
+2) ダイアログボックスの「GitHub」をクリックして、「GitHub URL を入力するか、組織またはユーザーで検索します」に「rootassist/100knocks-preprocess-inSQLandPython-withColab」と入力し、検索する
 
-3) リストから選択して開く
+3) リストから以下を選択して開く
 
 - SQL 演習編: preprocess_knock_SQL_Colab.ipynb
 - SQL 解答編: ans_knock_SQL_Colab.ipynb
@@ -55,7 +57,7 @@ https://colab.research.google.com/
 - Python 演習編: preprocess_knock_Python_Colab.ipynb
 - Python 解答編: ans_knock_Python_Colab.ipynb
 
-4) 内容に従い、準備のセルを実行する (準備のために時間がかかります)
+4) 「環境構築用のセル」を実行する （準備のために時間がかかります）
 
 5) 説明内容に従って演習を始める
 
